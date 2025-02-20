@@ -1,0 +1,13 @@
+customer_churn_predictor/
+├── src/
+│   ├── __init__.py
+│   ├── data/
+│   │   └── __init__.py
+│   ├── models/
+│   │   └── __init__.py
+│   └── api/
+│       └── __init__.py
+├── notebooks/
+├── tests/
+├── requirements.txt
+└── README.md
