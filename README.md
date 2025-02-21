@@ -20,7 +20,6 @@ A web application that predicts customer churn probability based on various risk
 - `/monitoring/performance` - Get performance metrics
 - `/health` - Check service health
 
-View the complete API documentation at: http://localhost:8000/docs
 
 ## Project Structure
 
