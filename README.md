@@ -4,29 +4,7 @@ A web application that predicts customer churn probability based on various risk
 
 ## Setup
 
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/customer-churn-prediction.git
-cd customer-churn-prediction
-```
-
-2. Create and activate virtual environment
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the application
-```bash
-uvicorn src.main:app --reload
-```
-
-5. Visit http://localhost:8000 in your browser
+[Access Website](https://customer-churn-prediction-app-wn4q.onrender.com/)
 
 ## Features
 - Customer churn prediction
