@@ -33,7 +33,14 @@ env/
 *.swo
 
 # Project specific
-models/*.pkl
+# models/*.pkl  # Commented out to include model file
 .DS_Store
 logs/
-*.log 
+*.log
+
+# Documentation and planning files
+product-requirement-stock.md
+project_structure.md
+
+# Line endings
+* text=auto 
